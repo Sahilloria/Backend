@@ -6,4 +6,8 @@ Pelase write confidential information in .env file
 
 # please use import method instead of require you can use that chaning type as module in package.JSON
 
-# contant file for define the variable whoes values will remain constant and can be used anywhere in the application
+# constant file for define the variable whoes values will remain constant and can be used anywhere in the application
+
+# JWT for authentication
+
+# Mongoose aggregate function to perform complex data aggregation operations
